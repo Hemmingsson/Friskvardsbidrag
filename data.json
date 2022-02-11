@@ -1,0 +1,694 @@
+[
+    {
+        "name": "Aerobics",
+        "value": true
+    },
+    {
+        "name": "Agility",
+        "value": true
+    },
+    {
+        "name": "Akupressur – Som en form av massage",
+        "value": true
+    },
+    {
+        "name": "Akupunktur – som metod för avslappning",
+        "value": true
+    },
+    {
+        "name": "Amerikansk fotboll",
+        "value": true
+    },
+    {
+        "name": "Appar – en app eller ett nedladdningsbart datorprogram för motion/friskvård, till exempel en app om löpträning, yoga eller viktminskning",
+        "value": true
+    },
+    {
+        "name": "Babysim",
+        "value": false
+    },
+    {
+        "name": "Badminton",
+        "value": true
+    },
+    {
+        "name": "Balansträning",
+        "value": true
+    },
+    {
+        "name": "Bandy",
+        "value": true
+    },
+    {
+        "name": "Bangolf",
+        "value": true
+    },
+    {
+        "name": "Basket",
+        "value": true
+    },
+    {
+        "name": "Bastubad",
+        "value": true
+    },
+    {
+        "name": "Beachvolleyboll",
+        "value": true
+    },
+    {
+        "name": "Bergsguide",
+        "value": true
+    },
+    {
+        "name": "Bergsklättring",
+        "value": true
+    },
+    {
+        "name": "Bikefit",
+        "value": false
+    },
+    {
+        "name": "Biljard",
+        "value": false
+    },
+    {
+        "name": "Bodyflight",
+        "value": true
+    },
+    {
+        "name": "Bollsporter – till exempel basket, fotboll, handboll, innebandy, volleyboll",
+        "value": true
+    },
+    {
+        "name": "Bowling",
+        "value": true
+    },
+    {
+        "name": "Boule",
+        "value": true
+    },
+    {
+        "name": "Bordtennis",
+        "value": true
+    },
+    {
+        "name": "Boxercise",
+        "value": true
+    },
+    {
+        "name": "Boxning",
+        "value": true
+    },
+    {
+        "name": "Bridge",
+        "value": false
+    },
+    {
+        "name": "Brottning",
+        "value": true
+    },
+    {
+        "name": "Bruksprov med hund – Betala personliga startavgifter i sådana tävlingar eller träning",
+        "value": true
+    },
+    {
+        "name": "Bågskytte",
+        "value": true
+    },
+    {
+        "name": "Cheerleading",
+        "value": true
+    },
+    {
+        "name": "Chiball – övningar till musik med hjälp av mjuka bollar",
+        "value": true
+    },
+    {
+        "name": "Core – träning för mage-, bål- och ryggstabilitet",
+        "value": true
+    },
+    {
+        "name": "Cricket",
+        "value": true
+    },
+    {
+        "name": "Crossfit",
+        "value": true
+    },
+    {
+        "name": "Curling",
+        "value": true
+    },
+    {
+        "name": "Cykling",
+        "value": true
+    },
+    {
+        "name": "Dans – till exempel bugg, jazzdans och zumba",
+        "value": true
+    },
+    {
+        "name": "Dans – inträde till nöjesdans",
+        "value": false
+    },
+    {
+        "name": "Dart",
+        "value": false
+    },
+    {
+        "name": "Discgolf (frisbeegolf)",
+        "value": true
+    },
+    {
+        "name": "Drakflygning",
+        "value": false
+    },
+    {
+        "name": "Dykning (sportdykning)",
+        "value": true
+    },
+    {
+        "name": "E-sport – tävlingar som utförs på datorer eller spelkonsoler, där de tävlande spelar olika sorters dataspel med varandra",
+        "value": false
+    },
+    {
+        "name": "Fallskärmshoppning",
+        "value": false
+    },
+    {
+        "name": "Sportfiske",
+        "value": true
+    },
+    {
+        "name": "Fiske",
+        "value": false
+    },
+    {
+        "name": "Flyttank – Floating rest",
+        "value": true
+    },
+    {
+        "name": "Forsränning",
+        "value": true
+    },
+    {
+        "name": "Fotbad, fotmassage och liknande enkla fotbehandlingar",
+        "value": true
+    },
+    {
+        "name": "Fotboll",
+        "value": true
+    },
+    {
+        "name": "Fotvård – i form av skönhetsbehandlingar som pedikyr och liknande eller medicinska behandlingar (sjukvård)",
+        "value": false
+    },
+    {
+        "name": "Fridykning",
+        "value": true
+    },
+    {
+        "name": "Friluftsaktiviteter och naturupplevelser – med moment av motion",
+        "value": true
+    },
+    {
+        "name": "Fysioterapeutisk behandling eller sjukgymnastik",
+        "value": false
+    },
+    {
+        "name": "Fysioterapeuts massagebehandling – av enklare slag",
+        "value": true
+    },
+    {
+        "name": "Fystester – t.ex. om testet ingår i gymkortet",
+        "value": true
+    },
+    {
+        "name": "Fäktning",
+        "value": true
+    },
+    {
+        "name": "Fält- och westernskytte",
+        "value": true
+    },
+    {
+        "name": "Golf",
+        "value": true
+    },
+    {
+        "name": "Gym",
+        "value": true
+    },
+    {
+        "name": "Gymnastik",
+        "value": true
+    },
+    {
+        "name": "Handboll",
+        "value": true
+    },
+    {
+        "name": "Hockey-bockey",
+        "value": true
+    },
+    {
+        "name": "Hydroterapi",
+        "value": true
+    },
+    {
+        "name": "Hypnos – i syfte att nå avslappning och minska stress eller vid rökavvänjning",
+        "value": true
+    },
+    {
+        "name": "Hyra av redskap – oberoende av aktivitet",
+        "value": false
+    },
+    {
+        "name": "Hästkörning",
+        "value": true
+    },
+    {
+        "name": "Hästpolo",
+        "value": true
+    },
+    {
+        "name": "Innebandy",
+        "value": true
+    },
+    {
+        "name": "Inlines- och rullskidåkning",
+        "value": true
+    },
+    {
+        "name": "Inomhusklättring – klättervägg",
+        "value": true
+    },
+    {
+        "name": "Ishockey",
+        "value": true
+    },
+    {
+        "name": "Jakt",
+        "value": false
+    },
+    {
+        "name": "Judo",
+        "value": true
+    },
+    {
+        "name": "Kajak- och kanotpaddling",
+        "value": true
+    },
+    {
+        "name": "Kallbad – bad i kallbadhus",
+        "value": true
+    },
+    {
+        "name": "Kampsporter – till exempel budo, judo, kendo med mera",
+        "value": true
+    },
+    {
+        "name": "Kendo",
+        "value": true
+    },
+    {
+        "name": "Kinesiologi – rörelseanalys",
+        "value": true
+    },
+    {
+        "name": "Kiropraktik",
+        "value": false
+    },
+    {
+        "name": "Kiropraktors massagebehandling av enklare slag",
+        "value": true
+    },
+    {
+        "name": "Klättring på klättervägg",
+        "value": true
+    },
+    {
+        "name": "Kostrådgivning",
+        "value": true
+    },
+    {
+        "name": "Kroppsbehandlingar och träning i syfte att lösa spänningar i kroppen – t.ex. tekniker och terapi som avser kroppshållning och rörelsemönster",
+        "value": true
+    },
+    {
+        "name": "Kurser avseende kost- och motionsrådgivning för hela personalen – men även med inslag av individuell rådgivning",
+        "value": true
+    },
+    {
+        "name": "Körsång på arbetsplatsen",
+        "value": true
+    },
+    {
+        "name": "Körsång utanför arbetsplatsen",
+        "value": false
+    },
+    {
+        "name": "Lagsporter",
+        "value": true
+    },
+    {
+        "name": "Laserbehandling – i syfte att förebygga/lindra som massage",
+        "value": true
+    },
+    {
+        "name": "Laserskytte",
+        "value": false
+    },
+    {
+        "name": "Lerduveskytte",
+        "value": false
+    },
+    {
+        "name": "Ljusterapi",
+        "value": true
+    },
+    {
+        "name": "Logonom – röstträning",
+        "value": false
+    },
+    {
+        "name": "Långfärdsskridskoåkning",
+        "value": true
+    },
+    {
+        "name": "Längdskidåkning ",
+        "value": true
+    },
+    {
+        "name": "Massage – i syftet  att lindra spänning i muskulaturen till exempel på grund av ensidigt eller tungt arbete, till exempel kontorsmassage och kroppsmassage",
+        "value": true
+    },
+    {
+        "name": "Bindvävsmassage – till exempel LPG-massage, endermologi med mera",
+        "value": false
+    },
+    {
+        "name": "Meditation – som stresshantering",
+        "value": true
+    },
+    {
+        "name": "Mental träning – som stresshantering",
+        "value": true
+    },
+    {
+        "name": "Mindfulness – som stresshantering",
+        "value": true
+    },
+    {
+        "name": "Minigolf",
+        "value": true
+    },
+    {
+        "name": "Motionsrådgivning",
+        "value": true
+    },
+    {
+        "name": "Motocross",
+        "value": true
+    },
+    {
+        "name": "Motorsport – innehållande motion",
+        "value": true
+    },
+    {
+        "name": "Naprapats massagebehandlingar – av enklare slag",
+        "value": true
+    },
+    {
+        "name": "Nikotinavvänjning",
+        "value": true
+    },
+    {
+        "name": "Nikotinavvänjningsprodukter – såsom nikotintuggummi eller nikotinplåster",
+        "value": false
+    },
+    {
+        "name": "Orientering",
+        "value": true
+    },
+    {
+        "name": "Osteopati",
+        "value": true
+    },
+    {
+        "name": "Padel",
+        "value": true
+    },
+    {
+        "name": "Pausgympa",
+        "value": true
+    },
+    {
+        "name": "Paintball",
+        "value": true
+    },
+    {
+        "name": "Personlig tränare",
+        "value": true
+    },
+    {
+        "name": "Pilates",
+        "value": true
+    },
+    {
+        "name": "Pistolskytte",
+        "value": false
+    },
+    {
+        "name": "Profylaxkurs för blivande föräldrar",
+        "value": true
+    },
+    {
+        "name": "Qigong",
+        "value": true
+    },
+    {
+        "name": "Racketsporter – till exempel badminton, bordtennis, squash, tennis och padel",
+        "value": true
+    },
+    {
+        "name": "Redskap för träning och motion – som arbetsgivaren köper till den anställde",
+        "value": false
+    },
+    {
+        "name": "Reflexologi/zonterapi",
+        "value": true
+    },
+    {
+        "name": "Rehabilitering",
+        "value": false
+    },
+    {
+        "name": "Ridning",
+        "value": true
+    },
+    {
+        "name": "Rodd",
+        "value": true
+    },
+    {
+        "name": "Rugby",
+        "value": true
+    },
+    {
+        "name": "Rullskidåkning",
+        "value": true
+    },
+    {
+        "name": "Rullskridsko-/inlinesåkning",
+        "value": true
+    },
+    {
+        "name": "Rökavvänjning – individuell eller i grupp",
+        "value": true
+    },
+    {
+        "name": "Saltrum som avslappning och stresshantering",
+        "value": true
+    },
+    {
+        "name": "Schack",
+        "value": false
+    },
+    {
+        "name": "Segling – kurs för att segla i småbåtar för en eller flera personer",
+        "value": true
+    },
+    {
+        "name": "Simning",
+        "value": true
+    },
+    {
+        "name": "Sjukgymnastik eller fysioterapeutisk behandling",
+        "value": false
+    },
+    {
+        "name": "Självförsvarskurs",
+        "value": true
+    },
+    {
+        "name": "Skateboardåkning ",
+        "value": true
+    },
+    {
+        "name": "Skeetskytte",
+        "value": false
+    },
+    {
+        "name": "Skrattgympa",
+        "value": true
+    },
+    {
+        "name": "Skridskoåkning",
+        "value": true
+    },
+    {
+        "name": "Slalom ",
+        "value": true
+    },
+    {
+        "name": "Snowboard ",
+        "value": true
+    },
+    {
+        "name": "Softball",
+        "value": true
+    },
+    {
+        "name": "Spabesök",
+        "value": false
+    },
+    {
+        "name": "Speedway",
+        "value": true
+    },
+    {
+        "name": "Spinning",
+        "value": true
+    },
+    {
+        "name": "Sportdykning",
+        "value": true
+    },
+    {
+        "name": "Sportfiske",
+        "value": true
+    },
+    {
+        "name": "Squash",
+        "value": true
+    },
+    {
+        "name": "Stand up paddling (SUP) ",
+        "value": true
+    },
+    {
+        "name": "Startavgift motionslopp – företagslag",
+        "value": true
+    },
+    {
+        "name": "Startavgift motionslopp – personlig",
+        "value": true
+    },
+    {
+        "name": "Stavgång ",
+        "value": true
+    },
+    {
+        "name": "Step-up",
+        "value": true
+    },
+    {
+        "name": "Stresshantering",
+        "value": true
+    },
+    {
+        "name": "Stretching",
+        "value": true
+    },
+    {
+        "name": "Styrketräning",
+        "value": true
+    },
+    {
+        "name": "Styrketräning i grupp",
+        "value": true
+    },
+    {
+        "name": "Sömnproblem – kurser för behandling av",
+        "value": false
+    },
+    {
+        "name": "Tai-chi",
+        "value": true
+    },
+    {
+        "name": "Tennis",
+        "value": true
+    },
+    {
+        "name": "Tester – avancerade konditionstester, syreupptagning, mjölksyra etc.",
+        "value": false
+    },
+    {
+        "name": "Utförsåkning ",
+        "value": true
+    },
+    {
+        "name": "Vattengympa",
+        "value": true
+    },
+    {
+        "name": "Vattenpolo",
+        "value": true
+    },
+    {
+        "name": "Vattenskidåkning ",
+        "value": true
+    },
+    {
+        "name": "Vibrationsträning med stol, platta eller madrass",
+        "value": true
+    },
+    {
+        "name": "Viktminskningskurs",
+        "value": true
+    },
+    {
+        "name": "Vindsurfing",
+        "value": true
+    },
+    {
+        "name": "Välgörenhet – att ge friskvårdsbidraget till välgörenhet",
+        "value": false
+    },
+    {
+        "name": "Wakeboard",
+        "value": true
+    },
+    {
+        "name": "Yoga",
+        "value": true
+    },
+    {
+        "name": "Zonterapi/reflexologi",
+        "value": true
+    },
+    {
+        "name": "Zumba",
+        "value": true
+    },
+    {
+        "name": "Äventyrsbad",
+        "value": false
+    },
+    {
+        "name": "Örtbad – i syfte att motverka ömhet och stelhet i till exempel armar, axlar, ben, rygg, nacke",
+        "value": true
+    }
+]

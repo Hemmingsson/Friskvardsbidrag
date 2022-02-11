@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --blue: #003265;
+    --gray: #d5d5d5;
+    --black: #333;
+    --yellow: #fed431;
+    --red: #e22c2c;
+    --green: #318731;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    height: 100vh;
+    height: -webkit-fill-available;
+
+    text-align: center;
+
+    color: var(--black);
+}
+
+header {
+    position: fixed;
+    z-index: 100;
+
+    width: 100%;
+    padding: 32px 0;
+
+    background: linear-gradient(#fff, rgba(#fff, 0));
+    .logo {
+        height: 48px;
+        margin-bottom: 8px;
+    }
+    h1 {
+        font-size: 20px;
+        font-weight: 500;
+
+        margin-bottom: 4px;
+    }
+    p {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .score {
+        display: none;
+    }
+}
+
+main {
+    width: 100%;
+    max-width: 500px;
+    padding: 0 8px;
+    padding-top: 176px;
+}
+
+
+// CARD
+.card {
+    width: 100%;
+    margin-bottom: 32px;
+
+    transition: all 250ms;
+
+    border: 1px solid var(--gray);
+    border-radius: 24px;
+    &.answered {
+        .actions {
+            display: none;
+        }
+        .answer {
+            display: block;
+        }
+    }
+    &.template {
+        display: none;
+    }
+    &:not(:first-child) {
+        opacity: .6;
+    }
+}
+
+.description {
+    padding: 56px 24px;
+    h2 {
+        font-size: 32px;
+
+        word-wrap: break-word;
+        word-break: break-word;
+        hyphens: auto;
+
+        overflow-wrap: break-word;
+    }
+    p {
+        margin-top: 8px;
+
+        color: gray;
+    }
+}
+
+.actions {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 24px;
+    padding-top: 0;
+
+    gap: 8px;
+    button {
+        font-size: 24px;
+        font-weight: 500;
+
+        width: calc(100%);
+        padding: 24px;
+
+        cursor: pointer;
+
+        border: 0;
+        border-radius: 16px;
+        &:hover {
+            box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, .07);
+        }
+        &:active {
+            box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, .14);
+        }
+        &.yes {
+            color: white;
+            background-color: var(--blue);
+        }
+        &.no {
+            color: var(--black);
+            background-color: var(--yellow);
+        }
+    }
+}
+
+.answer {
+    font-size: 24px;
+    font-weight: 500;
+
+    display: none;
+
+    padding: 35px;
+
+    border-top: 1px solid var(--gray);
+    &.correct {
+        color: var(--green);
+    }
+    &.incorrect {
+        color: var(--red);
+    }
+}

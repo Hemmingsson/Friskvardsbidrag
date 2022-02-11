@@ -1,0 +1,23 @@
+{
+  "name": "skatteverket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./ --no-minify"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^5.0.17",
+    "postcss": "^8.4.6",
+    "sass": "^1.49.7"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "js-confetti": "^0.10.2",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
