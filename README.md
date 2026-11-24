@@ -3,3 +3,7 @@
 # Friskvardsbidrag
 Vad kan man få friskvårdsbidrag för?
 
+
+## Development
+
+Use Node.js 22 or later. Run `npm ci`, `npm start` for development, or `npm run build` to create `dist/`.

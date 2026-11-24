@@ -2,22 +2,31 @@
   "name": "skatteverket",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url ./ --no-minify"
+    "build": "parcel build index.html --public-url ./ --no-cache"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cssnano": "^5.0.17",
-    "postcss": "^8.4.6",
-    "sass": "^1.49.7"
+    "@parcel/transformer-sass": "^2.16.4",
+    "cssnano": "^9.9.0",
+    "parcel": "^2.16.4",
+    "postcss": "^8.5.33",
+    "sass": "^1.108.2"
   },
   "dependencies": {
     "animejs": "^3.2.1",
     "js-confetti": "^0.10.2",
     "regenerator-runtime": "^0.13.9"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "targets": {
+    "default": {
+      "context": "browser",
+      "includeNodeModules": true
+    }
   }
 }
